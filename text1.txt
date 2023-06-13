@@ -1,0 +1,5 @@
+This my learning about github from angela yu Udemy course.
+
+First we initialize github using git init. 
+then to check status of staging area we use git status command
+then to add some to tracking we use git add and file name.
